@@ -11,7 +11,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###https://media1.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.gif?cid=6c09b952fdh9oql6b9lcs8husu1e02lei21fi9i722x6wual&ep=v1_gifs_search&rid=200w.gif&ct=g
+###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
